@@ -1,0 +1,14 @@
+{
+    "name": "alehander42/pseudon-php",
+    "description": "a compiler from php to pseudon",
+    "keywords": ["compiler", "pseudon"],
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "php": ">=5.5.9",
+        "php-ast": "=0.1.1"
+    },
+    "config": {
+        "preferred-install": "dist"
+    }
+}
